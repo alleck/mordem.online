@@ -1,0 +1,91 @@
+# Normalize line endings
+* text=auto
+
+# Explicit line ending conversions
+*.C           text
+*.as          text
+*.asp         text
+*.aspx        text
+*.cfc         text
+*.cfm         text
+*.class       text
+*.coffee      text
+*.cpp         text
+*.cs          text
+*.css         text
+*.ctp         text
+*.d           text
+*.default     text
+*.erb         text
+*.erl         text
+*.go          text
+*.h           text
+*.haml        text
+*.hpp         text
+*.hrl         text
+*.hs          text
+*.html        text
+*.html        text
+*.ini         text
+*.jade        text
+*.java        text
+*.js          text
+*.json        text
+*.jsp         text
+*.less        text
+*.lhs         text
+*.lua         text
+*.lucee       text
+*.m           text
+*.md          text
+*.mm          text
+*.php         text
+*.phps        text
+*.phtml       text
+*.pl          text
+*.pm          text
+*.po          text
+*.pod         text
+*.properties  text
+*.py          text
+*.rb          text
+*.rbw         text
+*.rhtml       text
+*.rlib        text
+*.rs          text
+*.rst         text
+*.sass        text
+*.sc          text
+*.scala       text
+*.scss        text
+*.slim        text
+*.sql         text
+*.styl        text
+*.t           text
+*.txt         text
+*.vb          text
+*.vbs         text
+*.xml         text
+*.yaml        text
+*.yml         text
+.*            text
+.editorconfig text
+.htaccess     text
+Makefile      text
+
+# Windows file extensions
+.bat eol=crlf
+.ps1 eol=crlf
+
+# Linux/Unix file extensions
+*.pem eol=lf
+*.sh  text eol=lf
+
+# Binary file extensions
+*.gif  binary
+*.ico  binary
+*.jpg  binary
+*.mo   binary
+*.pdf  binary
+*.phar binary
+*.png  binary

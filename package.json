@@ -1,0 +1,36 @@
+{
+  "name": "@cassidydr/mordem.online",
+  "version": "1.0.0",
+  "description": "Official website of Mortal Demise, a Minecraft server community.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cassidydr/mordem.online.git"
+  },
+  "keywords": [],
+  "author": "David Cassidy <davidcassidy@gmail.com> (https://github.com/cassidydr)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassidydr/mordem.online/issues"
+  },
+  "homepage": "https://github.com/cassidydr/mordem.online#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-clean-css": "^3.0.3",
+    "gulp-concat": "^2.6.0",
+    "gulp-debug": "^3.1.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.2",
+    "gulp-phpcs": "^1.4.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-scss-lint": "^0.4.0",
+    "gulp-sourcemaps": "^2.2.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.4"
+  }
+}

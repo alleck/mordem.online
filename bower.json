@@ -1,0 +1,25 @@
+{
+  "name": "cassidydr-mordem-online",
+  "description": "Official website of Mortal Demise, a Minecraft server community.",
+  "authors": [
+    "David Cassidy <davidcassidy@gmail.com> (https://github.com/cassidydr)"
+  ],
+  "license": "ISC",
+  "homepage": "https://mordem.online",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap-sass": "bootstrap-sass-official#^3.3.7",
+    "font-awesome": "^4.7.0",
+    "open-color": "^1.5.0",
+    "animate.css": "^3.5.2",
+    "waypoints": "^4.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+# http://robotstxt.org
+
+# Exclusions
+User-agent: *
+Disallow:
+
+# Crawl delay
+Crawl-delay: 10
+
+# Sitemap
+Sitemap: https://mordem.online/sitemap.xml

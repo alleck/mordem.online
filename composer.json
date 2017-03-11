@@ -1,0 +1,27 @@
+{
+  "name":        "cassidydr/mordem.online",
+  "description": "Official website of Mortal Demise, a Minecraft server community.",
+  "version":     "1.0.0",
+  "type":        "project",
+  "homepage":    "https://github.com/cassidydr/mordem.online",
+  "license":     "ISC",
+  "authors": [
+    {
+    "name":     "David Cassidy",
+    "email":    "davidcassidy@gmail.com",
+    "homepage": "https://github.com/cassidydr",
+    "role":     "Designer, Developer"
+    }
+  ],
+  "support": {
+    "docs":   "https://github.com/cassidydr/mordem.online#readme",
+    "issues": "https://github.com/cassidydr/mordem.online/issues",
+    "source": "https://github.com/cassidydr/mordem.online.git",
+    "email":  "davidcassidy@gmail.com"
+  },
+  "require": {
+    "vlucas/phpdotenv": "^2.4",
+    "squizlabs/php_codesniffer": "^2.8",
+    "phpmailer/phpmailer": "^5.2"
+  }
+}
